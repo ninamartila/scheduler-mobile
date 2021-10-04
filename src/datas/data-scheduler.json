@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mediterania Garden Residence",
+    "description": "Main Lobby, Apartement Mediterania Garden Recidance 1",
+    "startTime": 8,
+    "endTime": 17,
+    "status": true
+  },
+  {
+    "title": "Schedule 2",
+    "description": "Schedule 2, Lorem Ipsum bla bla bla bla",
+    "startTime": 9,
+    "endTime": 11,
+    "status": false
+  },
+  {
+    "title": "Schedule 3",
+    "description": "Schedule 3, Lorem Ipsum bla bla bla bla",
+    "startTime": 8,
+    "endTime": 16,
+    "status": false
+  }
+]
